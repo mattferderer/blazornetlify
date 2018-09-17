@@ -1,5 +1,2 @@
-AddType application/wasm .wasm
-
-application/wasm wasm;
-
-*.wasm Content-Type: application/wasm
+/*.wasm
+Content-Type: application/wasm
